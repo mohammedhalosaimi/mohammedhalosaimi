@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+I am Mohammed 😄, a Computer Scientist and Data Scientist who enjoys programming and tackling problems as well as using data for the benefit of businesses.
+
+- 🌱 I’m currently learning Deep Learning models.
+- 📫 How to reach me: [Twitter account](https://twitter.com/mhalosaimi) & [My email](mailto:mohammedhalosaimi@gmail.com?subject=[GitHub]%20Question)
+
+[![Mohammed's github stats](https://github-readme-stats.vercel.app/api?username=mohammedhalosaimi&hide=issues&show_icons=true&count_private=true&theme=onedark)](https://github.com/mohammedhalosaimi/github-readme-stats)
+
 <!--
 **mohammedhalosaimi/mohammedhalosaimi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
